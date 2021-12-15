@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 #### TL/DR;
-Pascal Böhler (he/him)
-18 y/o
-student
-lives in Frankfurt
-loves creating art and playing around with tech
+Pascal Böhler (he/him);
+18 y/o;
+student;
+lives in Frankfurt;
+loves creating art and playing around with tech;
 
 #### Intro
 My name is Pascal Böhler and I am a student and artist currently living in Frankfurt am Main, Hessen, Germany. In my free time I am working on different art projects in the field of photography in addition to some coding projects here on GitHub, trying to create tools that help me in my day to day life.
