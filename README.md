@@ -20,5 +20,7 @@ Currently, I am working a lot with Python and CPP. Python I use to work with dat
 If you want to get in touch with me, you can use those channels below:
 
 📫: info@photographymore.kiwi
+
 twitter: @pascalboehler
+
 IG: @pascalboehler
