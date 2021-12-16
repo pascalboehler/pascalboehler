@@ -2,7 +2,7 @@
 
 #### TL/DR;
 Pascal Böhler (he/him);
-18 y/o;
+19 y/o;
 student;
 lives in Frankfurt;
 loves creating art and playing around with tech;
