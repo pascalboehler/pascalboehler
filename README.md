@@ -21,6 +21,6 @@ If you want to get in touch with me, you can use those channels below:
 
 📫: info@photographymore.kiwi
 
-twitter: @pascalboehler
+twitter: @boehlerpascal
 
-IG: @pascalboehler
+IG: @boehlerpascal
