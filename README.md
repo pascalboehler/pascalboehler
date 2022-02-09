@@ -8,7 +8,7 @@ lives in Frankfurt;
 loves creating art and playing around with tech;
 
 #### Intro
-My name is Pascal Böhler and I am a student and artist currently living in Frankfurt am Main, Hessen, Germany. In my free time I am working on different art projects in the field of photography in addition to some coding projects here on GitHub, trying to create tools that help me in my day to day life.
+My name is Pascal Böhler and I am a high school student currently living in Frankfurt am Main, Hessen, Germany. In my free time I am working on different art projects in the field of photography in addition to some coding projects here on GitHub, trying to create tools that help me in my day to day life.
 
 For the future, I want to collaborate more with different people around the globe. Also, I want to further start to find creative applications for code in the art field and especially in photography, that make the lifes of other creatives easier.
 
