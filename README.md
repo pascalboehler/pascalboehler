@@ -17,7 +17,7 @@ In the past, I took part in two hackathons by JugendHackt, working on projects a
 Currently, I am working a lot with Python and CPP. Python I use to work with datasets and when trying to quickly create a function for physics class, to plot data or similiar. With C++ I work with OpenFrameworks and the Arduino platform, to create creative ideas I have. Also I use C++ whenever it needs to be really fast.
 
 #### Contact
-If you want to get in touch with me, you can use those channels below:
+If you want to get in touch with me, you can use the following channels:
 
 📫: info@photographymore.kiwi
 
